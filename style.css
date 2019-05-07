@@ -1,0 +1,33 @@
+html{
+	
+	width:100%;
+	
+}
+body{
+	
+	padding:0px;
+	margin:0px;
+	width:100%;
+	background-color:lightblue;
+	
+}
+form{
+	
+	margin:5%;
+	width:50%;
+	
+}
+h1{
+	
+	padding:0px;
+	margin:5%;
+	
+}
+table{
+	padding:0px;
+	margin:5%;
+}
+h2{
+	padding:0px;
+	margin:5%;
+}
